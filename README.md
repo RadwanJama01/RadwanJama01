@@ -1,4 +1,4 @@
-# 👨‍💻 About Me
+
 
 •⁠  ⁠Software engineer at *Palo Alto Networks*, previously at *Fidelity*
 •⁠  ⁠I build systems that read messy real-world documents, check them, and leave a record you can trust
